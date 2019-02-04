@@ -1,4 +1,4 @@
-0,Make,Model,Year,Engine HP,Engine Cylinders,highway MPG,city mpg
+id,Make,Model,Year,Engine_HP,Engine_Cylinders,Highway_MPG,City_MPG
 1,BMW,1 Series M,2011,335,6,26,19
 2,BMW,1 Series,2011,300,6,28,19
 3,BMW,1 Series,2011,300,6,28,20
